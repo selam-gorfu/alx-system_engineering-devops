@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $1_line | ls -1
+paste -d" " - - | cut -d " " -f 1
