@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $1_line | ls -1
